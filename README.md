@@ -1,2 +1,2 @@
-# [Truora文档](https://truora.readthedocs.io/zh_CN/latest/)
+# [Truora文档](https://truora.readthedocs.io/zh_CN/latest/docs/introduction.html)
 
