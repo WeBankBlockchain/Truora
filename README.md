@@ -1,3 +1,4 @@
+![LICENSE](https://img.shields.io/github/license/WeBankBlockchain/Truora-Service)
 ![image](./images/logo.png)
 # 什么是Truora
 
