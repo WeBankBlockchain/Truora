@@ -1,4 +1,4 @@
-![image](./images/truora-logo.png)
+![image](./images/logo.png)
 # 什么是Truora
 
 **Truora** 取Trust（可信）、Oracle（预言机）的涵义命名，可读为[tru ɔ:rə]。是一整套联盟链可信预言机解决方案，Truora作为连接联盟链和互联网的桥梁，Truora致力于让互联网数据安全可信地上链。
