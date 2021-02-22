@@ -4,7 +4,7 @@
 
 **Truora** 取Trust（可信）、Oracle（预言机）的涵义命名，可读为[tru ɔ:rə]。是一整套联盟链可信预言机解决方案，Truora作为连接联盟链和互联网的桥梁，Truora致力于让互联网数据安全可信地上链。
 
-**Truora** 是 FISCO-BCOS 区块链平台的预言机服务解决方案，是在广泛调研的基础上针对**联盟链**场景设计的可信预言机服务。 详细介绍请查看[详细介绍请查看[Truora在线文档](https://truora.readthedocs.io/)
+**Truora** 是 FISCO-BCOS 区块链平台的预言机服务解决方案，是在广泛调研的基础上针对**联盟链**场景设计的可信预言机服务。 详细介绍请查看[Truora在线文档](https://truora.readthedocs.io/)
                                                                                  
                                                                                     
 ## 各子系统简介
