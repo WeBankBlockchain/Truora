@@ -12,7 +12,7 @@
 
 * **预言机后端服务 [Truora-Service](https://github.com/WeBankBlockchain/Truora-Service)** 
  主要分为链上部分和链下部分。链上部分主要是 oracle 相关合约，链下部分主要是 Java 服务，负责连接节点，监听合约的事件，采集结果并回写到 oracle 合约。
- Truora-Service 目前主要支持获取链下API,后续会陆续开源VRF随机数，去中心化预言机功能。
+ Truora-Service 目前主要支持获取链下API,VRF随机数功能，后续会开源去中心化预言机功能。
 * **预言机前端服务 [Truora-Web](https://github.com/WeBankBlockchain/Truora-Web)**
  主要支持预言机配置信息、请求详情、请求历史的查询。方便应用查询自己预言机请求的结果，如果请求失败，可以看到请求失败的原因。
 
